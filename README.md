@@ -5,6 +5,13 @@
 
 🎤 Like to share my knowledge
 
+👨‍💻 Skills & Experiance:
+✅ WordPress
+✅ JavaScript
+✅ PHP
+✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ Photoshop / Illustrator
+
 **Enya-Aruna/Enya-Aruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
