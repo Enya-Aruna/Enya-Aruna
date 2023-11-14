@@ -6,8 +6,7 @@
 
 ### Hi there 👋, my name is Enya
 #### I am Web Devloper
-[[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Enya-Aruna) ]
-![I am Web Devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I’m a Front End Web developer Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power.
 
