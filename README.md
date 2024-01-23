@@ -4,7 +4,7 @@
 
 🎤 Like to share my knowledge
 
-##  Hello, I am Salma, but I love to call enya! 
+##  Hello, I am Salma..! 
 #### I am Web Devloper
 
 
