@@ -10,7 +10,7 @@
 
 I’m a Front End Web developer Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power.
 
-Skills:  HTML / CSS/Tailwind/Bootstrap/DaisyUI
+Skills:  HTML / CSS/Tailwind/Bootstrap/DaisyUI / Javascript / JQuery
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning javascript 
